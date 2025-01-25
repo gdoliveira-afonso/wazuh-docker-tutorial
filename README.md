@@ -14,7 +14,7 @@ curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh
 Certifique-se de baixar a versão desejada. No exemplo abaixo, estamos usando a versão v4.10.1:
 
 ```bash
-git clone [https://github.com/wazuh/wazuh-docker.git](https://github.com/wazuh/wazuh-docker.git) -b v4.10.1
+git clone https://github.com/wazuh/wazuh-docker.git -b v4.10.1
 ```
 
 ### Entre no diretório apropriado
