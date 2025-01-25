@@ -7,7 +7,7 @@ Tutoriais e procedimentos para instalar o Wazuh via Docker.
 Execute o seguinte comando para instalar o Docker de maneira simples e rápida:
 
 ```bash
-curl -fsSL [https://get.docker.com](https://get.docker.com) -o get-docker.sh && sh get-docker.sh
+curl -fsSL https://get.docker.com -o get-docker.sh && sh get-docker.sh
 ```
 
 ### Clone o repositório do Wazuh Docker
